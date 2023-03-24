@@ -1,0 +1,2 @@
+# mine
+mine rules adgh
