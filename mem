@@ -19,3 +19,6 @@
 ||api.webxtsvc.microsoft.com^
 ||prod.rewardsplatform.microsoft.com^
 ||checkappexec.microsoft.com^
+/REGEX/rr[0-9]---sn-[a-z0-9]{8}.googlevideo.com/
+
+
